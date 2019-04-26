@@ -1,0 +1,38 @@
+html {
+  text-align: center;
+}
+
+header {
+  background-color: blue;
+}
+
+#title {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
+
+#add_todo {
+  background-color: red;
+  color: white;
+  padding: 3px 10px 3px 10px;
+}
+
+ul {
+  color: white;
+  list-style-type: none;
+}
+
+ul li {
+  padding: 12px;
+  margin: 5px;
+}
+
+.clique {
+  background: black;
+  text-decoration: line-through;
+}
+
+.notclique {
+  background-color: grey;
+}
